@@ -1,0 +1,4 @@
+1-compiler
+#!/bin/bash 
+gcc -c $CFILE
+
